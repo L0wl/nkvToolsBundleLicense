@@ -15,7 +15,7 @@ Go to `Drive:/Path/To/Reaper/Scripts/nvk-ReaScripts/SHARED/Data` and replace ori
 >
 >Simple way to do that - add to name of `license.dat` (original license), some extra character(s). For example: `license.dat` -> `0license.dat` (You can found it by previous path)
 
-So, in next step is - Download the [license]() branch, and unpack the license.dat file into the original license file location
+So, in next step is - Download the [license](https://github.com/L0w1y/nkvToolsBundleLicense/archive/refs/heads/license.zip) branch, and unpack the license.dat file into the original license file location
 
 After that - Open Reaper, and run plugin, what you want (nvk family plugins)
 
@@ -32,6 +32,12 @@ Now you have an unlimited Trial License that is as powerful as the premium produ
 If you have some errors - Issues are welcome!
 
 If you found most optimized solution - Pull requests are welcome!
+
+# Credits
+
+Special thanks to:\
+[Ivan-Spoda](https://github.com/Ivan-Spoda), for purchasing the trial version of the nkv tools bundle\
+[L0w1y](https://github.com/L0w1y), for reverse-engineering of nkv products
 
 # Donation
 
