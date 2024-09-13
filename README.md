@@ -1,6 +1,6 @@
 # Description
 
-So, that's lightweight binary, what allow you to get an unlimited power of Trial version of nvk plugins, and use it for lifetime.
+So, that's lightweight binary, what allow you to get an unlimited power with Trial version of nvk plugins, and use it for lifetime.
 
 # Usage
 
