@@ -2,7 +2,19 @@
 
 So, that's lightweight binary, what allow you to get an unlimited power with Trial version of nvk plugins, and use it for lifetime.
 
-# Usage
+# Installation
+
+### From github
+
+Install [ReaPack](https://reapack.com)
+
+Copy and paste the following URL in Extensions -> ReaPack -> Import repositories...
+
+```
+https://github.com/L0w1y/nkvToolsBundleLicense/raw/index/index.xml
+```
+
+### From license file
 
 Initially you need a clean version of Reaper, where you have never installed, or at least opened any plugin from nvk (You can get it [here](https://nvk.tools/)). That can be distributed in any of the Bundles. Select an Trial version of any plugin, what you want, and install it!
 
