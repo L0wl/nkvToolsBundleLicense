@@ -21,9 +21,11 @@ After that - Open Reaper, and run plugin, what you want ([nvk family plugins](ht
 
 Some "Enter license key" message are shown, so close it!
 
-After that - you need to re-Run plugin again, and it will crash (Everything is under control)
+After that - you will see another window, with trial period start, with 999999999999 days. Apply it! (Click Yes)
 
-Run plugin again, and if the not any license message are shown - enjoy!
+After that you will see plugin window, and license now working pretty well!
+
+Soo you got additional window, with crack credits, and unfollowed instruction, what can be available for old versions of crack (Non public versions. You can skip this window, and press Don't show again checkbox, to disapear it for lifetime of plugin usage)
 
 Now you have an unlimited Trial License that is as powerful as the premium products and unlocks the unprecedented potential of nkw Tools for you to get best user experience and get. Open up new horizons of possibilities with nkv products, and use this power to work faster by performing routine tasks with automated nkv tools
 
