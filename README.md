@@ -11,7 +11,7 @@ Install [ReaPack](https://reapack.com)
 Copy and paste the following URL in Extensions -> ReaPack -> Import repositories...
 
 ```
-https://github.com/L0w1y/nkvToolsBundleLicense/raw/index/index.xml
+https://github.com/L0wl/nkvToolsBundleLicense/raw/index/index.xml
 ```
 
 ### From license file
@@ -51,7 +51,7 @@ If you found most optimized solution - Pull requests are welcome!
 
 Special thanks to:\
 [Ivan-Spoda](https://github.com/Ivan-Spoda), for purchasing the trial version of the nkv tools bundle\
-[L0w1y](https://github.com/L0w1y), for reverse-engineering of nkv products
+[L0wl](https://github.com/L0wl), for reverse-engineering of nkv products
 
 # Donation
 
